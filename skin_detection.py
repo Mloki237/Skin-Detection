@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+pip install ultralytics==8.2.103 -q
 
 import streamlit as st
 from ultralytics import YOLO
